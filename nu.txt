@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 ....
 dihbcian
-=======
-....
->>>>>>> f21508b53b174ce464c826041b316e7dce4c87dc
+dci nsoam
