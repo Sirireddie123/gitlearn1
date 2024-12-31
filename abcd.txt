@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 abcd
 zjhbascjkl
 jnczac
+=======
+abcdhbks
+fvkjsbfvskjNV
+>>>>>>> 1632a86faa76eebfa0a037805e9132c674b7c1fa
